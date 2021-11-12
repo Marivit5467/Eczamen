@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Zadacha1 {
     public static void main(String[] args) {
-        otrArray();
+        zadacha();
     }
-    private static void otrArray (){
+    private static void zadacha (){
         List<Integer> list = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
